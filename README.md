@@ -26,19 +26,6 @@
 
 <br />
 
-## 关于我
-
-- `Java` 后端开发
-- `Vue` 前端开发
-- 正在把 `AI` 融入日常开发流程
-- 喜欢把复杂系统做得更清晰、更稳定、更好维护
-
-## 技术栈
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,vue,html,css,javascript,mysql,redis,git,github,docker" alt="Tech Stack" />
-</p>
-
 ## 代表项目
 
 <table>
@@ -59,6 +46,19 @@
     </td>
   </tr>
 </table>
+
+## 关于我
+
+- `Java` 后端开发
+- `Vue` 前端开发
+- 正在把 `AI` 融入日常开发流程
+- 喜欢把复杂系统做得更清晰、更稳定、更好维护
+
+## 技术栈
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,vue,html,css,javascript,mysql,redis,git,github,docker" alt="Tech Stack" />
+</p>
 
 ## 当前关注
 
@@ -103,4 +103,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RickyTsang9&style=for-the-badge&color=0f172a" alt="Profile Views" />
 </div>
-
