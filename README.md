@@ -47,13 +47,6 @@
   </tr>
 </table>
 
-## 关于我
-
-- `Java` 后端开发
-- `Vue` 前端开发
-- 正在把 `AI` 融入日常开发流程
-- 喜欢把复杂系统做得更清晰、更稳定、更好维护
-
 ## 技术栈
 
 <p align="center">
@@ -75,28 +68,6 @@
     </td>
   </tr>
 </table>
-
-## 主页状态
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RickyTsang9&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickyTsang9&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" />
-</div>
-
-## 开发风格
-
-<div align="center">
-
-```text
-稳定优先 · 结构清晰 · 注释规范 · 持续迭代
-```
-
-</div>
 
 <br />
 
