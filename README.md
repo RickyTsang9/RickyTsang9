@@ -52,49 +52,49 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔧 后端</h3>
+      <h3>🧩 后端</h3>
       <p>
-        <span style="display:inline-block;padding:4px 10px;margin:0 6px 8px 0;border:1px solid #d0d7de;border-radius:999px;background:#f6f8fa;color:#24292f;font-size:12px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">Java</span>
-        <span style="display:inline-block;padding:4px 10px;margin:0 6px 8px 0;border:1px solid #d0d7de;border-radius:999px;background:#f6f8fa;color:#24292f;font-size:12px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">C#</span>
-        <span style="display:inline-block;padding:4px 10px;margin:0 6px 8px 0;border:1px solid #d0d7de;border-radius:999px;background:#f6f8fa;color:#24292f;font-size:12px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">.NET</span>
-        <span style="display:inline-block;padding:4px 10px;margin:0 6px 8px 0;border:1px solid #d0d7de;border-radius:999px;background:#f6f8fa;color:#24292f;font-size:12px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">Spring Boot</span>
-        <span style="display:inline-block;padding:4px 10px;margin:0 6px 8px 0;border:1px solid #d0d7de;border-radius:999px;background:#f6f8fa;color:#24292f;font-size:12px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">Spring Cloud</span>
-        <span style="display:inline-block;padding:4px 10px;margin:0 6px 8px 0;border:1px solid #d0d7de;border-radius:999px;background:#f6f8fa;color:#24292f;font-size:12px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">MyBatis-Plus</span>
-        <span style="display:inline-block;padding:4px 10px;margin:0 6px 8px 0;border:1px solid #d0d7de;border-radius:999px;background:#f6f8fa;color:#24292f;font-size:12px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">.NET MVC</span>
-        <span style="display:inline-block;padding:4px 10px;margin:0 6px 8px 0;border:1px solid #d0d7de;border-radius:999px;background:#f6f8fa;color:#24292f;font-size:12px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">OpenFeign</span>
+        <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET" />
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Cloud" />
+        <img src="https://img.shields.io/badge/MyBatis--Plus-2C3E50?style=flat&logo=datafold&logoColor=white" alt="MyBatis-Plus" />
+        <img src="https://img.shields.io/badge/.NET%20MVC-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET MVC" />
+        <img src="https://img.shields.io/badge/OpenFeign-FF6B6B?style=flat&logo=openai&logoColor=white" alt="OpenFeign" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📡 服务与中间件</h3>
+      <h3>☁️ 服务与中间件</h3>
       <p>
-        <span style="display:inline-block;padding:4px 10px;margin:0 6px 8px 0;border:1px solid #d0d7de;border-radius:999px;background:#f6f8fa;color:#24292f;font-size:12px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">Redis</span>
-        <span style="display:inline-block;padding:4px 10px;margin:0 6px 8px 0;border:1px solid #d0d7de;border-radius:999px;background:#f6f8fa;color:#24292f;font-size:12px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">Nacos</span>
-        <span style="display:inline-block;padding:4px 10px;margin:0 6px 8px 0;border:1px solid #d0d7de;border-radius:999px;background:#f6f8fa;color:#24292f;font-size:12px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">MinIO</span>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/Nacos-1677FF?style=flat&logo=alibaba-cloud&logoColor=white" alt="Nacos" />
+        <img src="https://img.shields.io/badge/MinIO-111827?style=flat&logo=minio&logoColor=white" alt="MinIO" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎨 前端</h3>
+      <h3>🖥️ 前端</h3>
       <p>
-        <span style="display:inline-block;padding:4px 10px;margin:0 6px 8px 0;border:1px solid #d0d7de;border-radius:999px;background:#f6f8fa;color:#24292f;font-size:12px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">Vue 2</span>
-        <span style="display:inline-block;padding:4px 10px;margin:0 6px 8px 0;border:1px solid #d0d7de;border-radius:999px;background:#f6f8fa;color:#24292f;font-size:12px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">Vue 3</span>
-        <span style="display:inline-block;padding:4px 10px;margin:0 6px 8px 0;border:1px solid #d0d7de;border-radius:999px;background:#f6f8fa;color:#24292f;font-size:12px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">JavaScript</span>
-        <span style="display:inline-block;padding:4px 10px;margin:0 6px 8px 0;border:1px solid #d0d7de;border-radius:999px;background:#f6f8fa;color:#24292f;font-size:12px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">Bootstrap 3</span>
-        <span style="display:inline-block;padding:4px 10px;margin:0 6px 8px 0;border:1px solid #d0d7de;border-radius:999px;background:#f6f8fa;color:#24292f;font-size:12px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">jQuery</span>
-        <span style="display:inline-block;padding:4px 10px;margin:0 6px 8px 0;border:1px solid #d0d7de;border-radius:999px;background:#f6f8fa;color:#24292f;font-size:12px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">ECharts</span>
-        <span style="display:inline-block;padding:4px 10px;margin:0 6px 8px 0;border:1px solid #d0d7de;border-radius:999px;background:#f6f8fa;color:#24292f;font-size:12px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">turf.js</span>
-        <span style="display:inline-block;padding:4px 10px;margin:0 6px 8px 0;border:1px solid #d0d7de;border-radius:999px;background:#f6f8fa;color:#24292f;font-size:12px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">iView</span>
-        <span style="display:inline-block;padding:4px 10px;margin:0 6px 8px 0;border:1px solid #d0d7de;border-radius:999px;background:#f6f8fa;color:#24292f;font-size:12px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">ElementUI</span>
-        <span style="display:inline-block;padding:4px 10px;margin:0 6px 8px 0;border:1px solid #d0d7de;border-radius:999px;background:#f6f8fa;color:#24292f;font-size:12px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">Layui</span>
+        <img src="https://img.shields.io/badge/Vue%202-4FC08D?style=flat&logo=vuedotjs&logoColor=white" alt="Vue 2" />
+        <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Bootstrap%203-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap 3" />
+        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="jQuery" />
+        <img src="https://img.shields.io/badge/ECharts-AA344D?style=flat&logo=apacheecharts&logoColor=white" alt="ECharts" />
+        <img src="https://img.shields.io/badge/turf.js-22C55E?style=flat&logo=javascript&logoColor=white" alt="turf.js" />
+        <img src="https://img.shields.io/badge/iView-2D8CF0?style=flat&logo=vue.js&logoColor=white" alt="iView" />
+        <img src="https://img.shields.io/badge/ElementUI-409EFF?style=flat&logo=element&logoColor=white" alt="ElementUI" />
+        <img src="https://img.shields.io/badge/Layui-2D8CF0?style=flat&logo=layui&logoColor=white" alt="Layui" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🗄️ 数据库</h3>
+      <h3>🗃️ 数据库</h3>
       <p>
-        <span style="display:inline-block;padding:4px 10px;margin:0 6px 8px 0;border:1px solid #d0d7de;border-radius:999px;background:#f6f8fa;color:#24292f;font-size:12px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">Oracle</span>
-        <span style="display:inline-block;padding:4px 10px;margin:0 6px 8px 0;border:1px solid #d0d7de;border-radius:999px;background:#f6f8fa;color:#24292f;font-size:12px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">MySQL</span>
-        <span style="display:inline-block;padding:4px 10px;margin:0 6px 8px 0;border:1px solid #d0d7de;border-radius:999px;background:#f6f8fa;color:#24292f;font-size:12px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">KingbaseES</span>
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/KingbaseES-0066CC?style=flat&logo=postgresql&logoColor=white" alt="KingbaseES" />
       </p>
     </td>
   </tr>
@@ -121,3 +121,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RickyTsang9&style=for-the-badge&color=0f172a" alt="Profile Views" />
 </div>
+
