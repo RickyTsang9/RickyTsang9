@@ -109,6 +109,12 @@
   </tr>
 </table>
 
+## 统计图
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RickyTsang9&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</div>
+
 <br />
 
 <div align="center">
