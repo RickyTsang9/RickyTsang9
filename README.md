@@ -49,8 +49,48 @@
 
 ## 技术栈
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,vue,html,css,javascript,mysql,redis,git,github,docker" alt="Tech Stack" />
+### 后端
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud" />
+  <img src="https://img.shields.io/badge/MyBatis--Plus-2C3E50?style=for-the-badge&logo=datafold&logoColor=white" alt="MyBatis-Plus" />
+  <img src="https://img.shields.io/badge/.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET MVC" />
+  <img src="https://img.shields.io/badge/OpenFeign-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="OpenFeign" />
+</p>
+
+### 服务与中间件
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Nacos-1677FF?style=for-the-badge&logo=alibaba-cloud&logoColor=white" alt="Nacos" />
+  <img src="https://img.shields.io/badge/MinIO-111827?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
+</p>
+
+### 前端
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Vue%202-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 2" />
+  <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap%203-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap 3" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white" alt="ECharts" />
+  <img src="https://img.shields.io/badge/turf.js-22C55E?style=for-the-badge&logo=javascript&logoColor=white" alt="turf.js" />
+  <img src="https://img.shields.io/badge/iView-2D8CF0?style=for-the-badge&logo=vue.js&logoColor=white" alt="iView" />
+  <img src="https://img.shields.io/badge/ElementUI-409EFF?style=for-the-badge&logo=element&logoColor=white" alt="ElementUI" />
+  <img src="https://img.shields.io/badge/Layui-2D8CF0?style=for-the-badge&logo=layui&logoColor=white" alt="Layui" />
+</p>
+
+### 数据库
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/KingbaseES-0066CC?style=for-the-badge&logo=postgresql&logoColor=white" alt="KingbaseES" />
 </p>
 
 ## 当前关注
