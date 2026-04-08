@@ -49,6 +49,21 @@
 
 ## 技术栈
 
+### 🖥️ 前端
+
+<p>
+  <img src="https://img.shields.io/badge/Vue%202-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 2" />
+  <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap%203-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap 3" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white" alt="ECharts" />
+  <img src="https://img.shields.io/badge/turf.js-22C55E?style=flat-square&logo=javascript&logoColor=white" alt="turf.js" />
+  <img src="https://img.shields.io/badge/iView-2D8CF0?style=flat-square&logo=vue.js&logoColor=white" alt="iView" />
+  <img src="https://img.shields.io/badge/ElementUI-409EFF?style=flat-square&logo=element&logoColor=white" alt="ElementUI" />
+  <img src="https://img.shields.io/badge/Layui-2D8CF0?style=flat-square&logo=layui&logoColor=white" alt="Layui" />
+</p>
+
 ### 🧩 后端
 
 <p>
@@ -68,21 +83,6 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Nacos-1677FF?style=flat-square&logo=alibaba-cloud&logoColor=white" alt="Nacos" />
   <img src="https://img.shields.io/badge/MinIO-111827?style=flat-square&logo=minio&logoColor=white" alt="MinIO" />
-</p>
-
-### 🖥️ 前端
-
-<p>
-  <img src="https://img.shields.io/badge/Vue%202-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 2" />
-  <img src="https://img.shields.io/badge/Vue%203-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue 3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap%203-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap 3" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white" alt="ECharts" />
-  <img src="https://img.shields.io/badge/turf.js-22C55E?style=flat-square&logo=javascript&logoColor=white" alt="turf.js" />
-  <img src="https://img.shields.io/badge/iView-2D8CF0?style=flat-square&logo=vue.js&logoColor=white" alt="iView" />
-  <img src="https://img.shields.io/badge/ElementUI-409EFF?style=flat-square&logo=element&logoColor=white" alt="ElementUI" />
-  <img src="https://img.shields.io/badge/Layui-2D8CF0?style=flat-square&logo=layui&logoColor=white" alt="Layui" />
 </p>
 
 ### 🗃️ 数据库
