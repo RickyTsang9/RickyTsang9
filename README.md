@@ -30,21 +30,25 @@
 
 <table>
   <tr>
-    <td width="33.33%" valign="top">
+    <td width="100%" valign="top">
       <h3 align="center">
         <a href="https://github.com/RickyTsang9/canglian-backend">canglian-backend</a>
       </h3>
       <p align="center">基于 layui 二次开发的仓库管理系统</p>
       <p align="center">Java 后端 · 业务分层 · 数据库查询 · 接口服务化</p>
     </td>
-    <td width="33.33%" valign="top">
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
       <h3 align="center">
         <a href="https://github.com/RickyTsang9/canglian-frontend">canglian-frontend</a>
       </h3>
       <p align="center">基于 ruoyi 框架二次开发的仓库管理系统前端</p>
       <p align="center">Vue 页面 · 前后端联调 · 组件复用 · 交互优化</p>
     </td>
-    <td width="33.33%" valign="top">
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
       <h3 align="center">
         <a href="https://github.com/RickyTsang9/SaleERP">SaleERP</a>
       </h3>
