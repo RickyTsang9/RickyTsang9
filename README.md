@@ -30,21 +30,14 @@
 
 <table>
   <tr>
-    <td width="33.33%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">
         <a href="https://github.com/RickyTsang9/canglian">canglian</a>
       </h3>
       <p align="center">仓储与财务一体化管理系统</p>
       <p align="center">RuoYi 二次开发 · 仓储主线 · 财务协同</p>
     </td>
-    <td width="33.33%" valign="top">
-      <h3 align="center">
-        <a href="https://github.com/RickyTsang9/canglian-frontend">canglian-frontend</a>
-      </h3>
-      <p align="center">仓链管理系统 Vue3 管理端</p>
-      <p align="center">Vue3 · Vite · Element Plus · 管理端迭代</p>
-    </td>
-    <td width="33.33%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">
         <a href="https://github.com/RickyTsang9/SaleERP">SaleERP</a>
       </h3>
